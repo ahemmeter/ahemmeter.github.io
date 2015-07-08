@@ -40,7 +40,18 @@ MA, North Carolina State University. September 2014 -
 
 ## Tutoring Experience
 
+* Tutored through the volunteer Linguistics Club tutoring program 2010-2013
+* Tutored student-athletes through the Academic Success Program in the Athletics Department 2010-2013
+* Tutored as a writing consultant in the Graduate Writing Center at North Carolina State University
+* Worked as a TA for the following undergraduate courses at North Carolina State University: Intro to Linguistics and English Syntax
+
 ## Skills:
+
+* Praat scripting
+* Java
+* Python
+* Unix Command Line
+* P2FA Forced Aligner
 
 ## Honors Thesis:
 
