@@ -185,6 +185,7 @@ footer {
   .left, .right {
     display: inline-block;
     margin: 0 10px;
+    text-align: center;
   }
   .cv {
     position: relative;
@@ -221,17 +222,20 @@ footer {
     color: #FF7728;
   }
   .email {
+    display: block;
     font-size: 18pt;
+    margin-bottom: 10px;
   }
   .email::before {
     vertical-align: middle;
     font-size: 24pt;
     font-family: 'FontAwesome';
     content: '\f003';
-    margin-right: 10px;
   }
   ul {
-    padding-top: 10px;
+    display: inline-block;
+    padding: 0;
+    margin: 0 auto;
   }
   ul li {
     display: inline-block;
@@ -248,7 +252,7 @@ footer::before {
   top: 0;
   left: 50%;
   margin-left: -315px;
-  margin-top: -56pt;
+  margin-top: -60pt;
   content: 'Amy Hemmeter';
   font-size: 72pt;
   font-weight: 700;
