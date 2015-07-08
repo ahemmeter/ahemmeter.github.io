@@ -82,6 +82,12 @@ header {
     letter-spacing: 4pt;
     color: #FFA315;
   }
+  h1[data-ipa]::before {
+    display: block;
+    font-family: 'Arial', sans-serif;
+    font-size: 10pt;
+    content: '[' attr(data-ipa) ']';
+  }
   #scroll {
     position: absolute;
     bottom: 15px;
