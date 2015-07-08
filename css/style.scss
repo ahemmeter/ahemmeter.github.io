@@ -53,7 +53,7 @@ header::before {
   background:
     linear-gradient(to bottom, rgba(0,0,0,0.15), rgba(0,0,0,0.75)),
     url('../images/header.jpg') center/cover;
-  fliter: blur(5px);
+  filter: blur(5px);
   -webkit-filter: blur(5px);
   transform: scale(1.1);
 }
