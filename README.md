@@ -47,11 +47,12 @@ If you don't want to use the GitHub web interface (or want to do something you c
 
 Basically, the process boils down to this:
 
-1. Clone (download) the Repository using Git into a folder on your computer.
-2. Modify / create files as you normally would.
-3. Add any files you've created or modified to the "index" using Git (this is just a list of changes). This is called "staging".
-4. Commit your changes using Git (basically, mark them as ready to upload).
-5. Push (upload) your changes back into this repository using Git.
+1. Clone (download) the Repository using Git into a folder on your computer. You only need to do this once.
+2. Check if there are any updates you need to download (this is called "pulling" from the repository).
+3. Modify / create files as you normally would.
+4. Add any files you've created or modified to the "index" using Git (this is just a list of changes). This is called "staging".
+5. Commit your changes using Git (basically, mark them as ready to upload).
+6. Push (upload) your changes back into this repository using Git.
 
 There are more advance features, but that's all you need to get started.
 
