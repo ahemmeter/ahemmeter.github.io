@@ -198,18 +198,20 @@ footer {
     font-size: 12pt;
     font-weight: 100;
     &::before {
+      position: absolute;
       display: block;
       content: '\f1c1';
       font-family: 'FontAwesome';
       font-size: 42pt;
-      margin-bottom: 10px;
+      top: -52pt;
+      left: 50%;
+      margin-left: -18pt;
     }
     &::after {
       position: absolute;
-      top: 0;
+      top: -28pt;
       left: 50%;
-      margin-top: -40px;
-      margin-left: 5px;
+      margin-left: 4pt;
       display: block;
       content: '\f019';
       font-family: 'FontAwesome';
