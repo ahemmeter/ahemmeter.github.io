@@ -4,7 +4,7 @@ layout: default
 
 # Curriculum Vitae
 
-Jump to: [Education](#education), [Research Experience](#research-experience), [Participation in the Academic Community](#participation-in-the-academic-community), [Tutoring Experience](#tutoring-experience), [Skills](#skills), [Honors Thesis](#honors-thesis), [Download as PDF](files/amy_hemmeter_cv.pdf)
+[Download as PDF](files/amy_hemmeter_cv.pdf)
 
 ## Education
 
