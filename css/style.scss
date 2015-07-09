@@ -91,9 +91,10 @@ header {
   #scroll {
     position: absolute;
     bottom: 15px;
-    color: rgba(#EFDAAB, 0.1);
+    color: rgba(#EFDAAB, 0.3);
+    text-shadow: 0 0 10px rgba(0,0,0,0.5);
     text-decoration: none;
-    border-bottom: 4pt solid rgba(#EFDAAB, 0.1);
+    border-bottom: 4pt solid rgba(#EFDAAB, 0.2);
     font-size: 0;
     transition: all 0.25s ease;
     animation: bobbing 1s ease;
@@ -108,9 +109,9 @@ header {
       animation-direction: alternate;
     }
     &:hover {
-      color: rgba(#EFDAAB, 0.4);
-      border-bottom: 4pt solid rgba(#EFDAAB, 0.2);
+      color: rgba(#EFDAAB, 0.5);
       text-shadow: 0 0 10px rgba(0,0,0,0.5);
+      border-bottom: 4pt solid rgba(#EFDAAB, 0.3);
     }
   }
 }
