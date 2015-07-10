@@ -29,6 +29,13 @@ MA, North Carolina State University. September 2014 -
 * 2013 – Worked with Harim Kwon, measuring Voice Onset Time in both English and Korean utterances from native Korean speakers.
 * 2014 – Became an RA in the Phonology Lab under the direction of Dr. Jeff Mielke. Processed files to obtain ultrasound data, created and aligned transcripts to audio files
 
+## Conference presentations
+
+* NWAV 2013, Poster, Gender and formality effects on the production of vocal fry
+* SECOL 2015, Paper Presentation, Creating gender-ambiguous stimuli
+* Upcoming: NWAV 2015, Paper Presentation, Social and acoustic factors in the perception of creak
+
+
 ## Participation in the Academic Community
 
 * President of University of Michigan Undergraduate Linguistics Club 2011-2013
@@ -45,7 +52,7 @@ MA, North Carolina State University. September 2014 -
 * Tutored as a writing consultant in the Graduate Writing Center at North Carolina State University
 * Worked as a TA for the following undergraduate courses at North Carolina State University: Intro to Linguistics and English Syntax
 
-## Skills:
+## Skills
 
 * Praat scripting
 * Java
@@ -53,6 +60,6 @@ MA, North Carolina State University. September 2014 -
 * Unix Command Line
 * P2FA Forced Aligner
 
-## Honors Thesis:
+## Honors Thesis
 
 *Gender and formality effects on the production and perception of vocal fry*. BA Thesis, University of Michigan. 2013.
