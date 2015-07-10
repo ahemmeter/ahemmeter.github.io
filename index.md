@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# Biographical
+# About Me
 
 I am currently a second-year Masters student in Linguistics at North Carolina State University.
 
