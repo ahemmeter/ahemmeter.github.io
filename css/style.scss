@@ -5,6 +5,90 @@
 $title_fonts: 'Raleway', sans-serif;
 $body_fonts: 'Roboto', sans-serif;
 
+@mixin filetype_link_icons() {
+  /* pdf files */
+  a[href$='.pdf']::before {
+    content: '\f1c1';
+  }
+
+  /* spreadsheet files */
+  a[href$='.xls']::before,
+  a[href$='.xlsx']::before,
+  a[href$='.ods']::before,
+  a[href$='.csv']::before {
+    content: '\f1c3';
+  }
+
+  /* word processor files */
+  a[href$='.doc']::before,
+  a[href$='.docx']::before,
+  a[href$='.odf']::before,
+  a[href$='.rtf']::before {
+    content: '\f1c2';
+  }
+
+  /* slideshow files */
+  a[href$='.ppt']::before,
+  a[href$='.pptx']::before,
+  a[href$='.ppts']::before,
+  a[href$='.uop']::before {
+    content: '\f1c4';
+  }
+
+  /* audio files */
+  a[href$='.mp3']::before,
+  a[href$='.m4a']::before,
+  a[href$='.ogg']::before,
+  a[href$='.wma']::before,
+  a[href$='.mid']::before,
+  a[href$='.wav']::before {
+    content: '\f1c7';
+  }
+
+  /* video files */
+  a[href$='.mp4']::before,
+  a[href$='.avi']::before,
+  a[href$='.flv']::before,
+  a[href$='.wmv']::before,
+  a[href$='.mov']::before,
+  a[href$='.3gp']::before {
+    content: '\f1c8';
+  }
+
+  /* image files */
+  a[href$='.jpg']::before,
+  a[href$='.jpeg']::before,
+  a[href$='.png']::before,
+  a[href$='.gif']::before,
+  a[href$='.svg']::before,
+  a[href$='.bmp']::before {
+    content: '\f1c5';
+  }
+
+  /* code files */
+  a[href$='.tex']::before,
+  a[href$='.py']::before,
+  a[href$='.praat']::before,
+  a[href$='.java']::before {
+    content: '\f1c9';
+  }
+
+  /* raw text files */
+  a[href$='.txt']::before {
+    content: '\f0f6';
+  }
+
+  /* archive files */
+  a[href$='.zip']::before,
+  a[href$='.gz']::before,
+  a[href$='.tar']::before,
+  a[href$='.7z']::before,
+  a[href$='.bz2']::before,
+  a[href$='.rar']::before {
+    content: '\f1c6';
+  }
+}
+
 @keyframes bobbing {
   0% {
     padding-bottom: 5px;
@@ -167,6 +251,7 @@ main {
     text-align: justify;
     line-height: 125%;
     font-weight: 300;
+    @include filetype_link_icons;
   }
   a {
     color: #FF7728;
@@ -174,6 +259,19 @@ main {
     &:hover {
       text-decoration: underline;
     }
+  }
+  h1, h2, h3 {
+    a::before {
+      position: absolute;
+      margin-left: -1.5em;
+      font-family: 'FontAwesome';
+      content: '\f0c1';
+      opacity: 0.4;
+    }
+    a:hover::before {
+      opacity: 0.6;
+    }
+    @include filetype_link_icons;
   }
 }
 
