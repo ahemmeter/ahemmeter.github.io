@@ -6,6 +6,12 @@ $title_fonts: 'Raleway', sans-serif;
 $body_fonts: 'Roboto', sans-serif;
 
 @mixin filetype_link_icons() {
+  
+  a::before {
+    font-family: 'FontAwesome';
+    padding-right: 0.15em;
+  }
+
   /* pdf files */
   a[href$='.pdf']::before {
     content: '\f1c1';
@@ -264,7 +270,6 @@ main {
     a::before {
       position: absolute;
       margin-left: -1.5em;
-      font-family: 'FontAwesome';
       content: '\f0c1';
       opacity: 0.4;
     }
