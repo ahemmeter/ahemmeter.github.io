@@ -258,6 +258,18 @@ main {
     line-height: 125%;
     font-weight: 300;
     @include filetype_link_icons;
+    img {
+      display: block;
+      max-width: 600px;
+      margin: 0 auto;
+      &::after {
+        display: block;
+        content: attr(alt);
+        background: #EFDAAB;
+        font-size: 10pt;
+        border-radius: 4px;
+      }
+    }
   }
   a {
     color: #FF7728;
