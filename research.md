@@ -4,9 +4,9 @@ layout: default
 
 # Research
 
-![Alt text](Libraries/Documents/creak_example.png)
+![Alt text](C:/Users/ahemmet/Documents/creak_example.png)
 
-![Alt text](Libraries/Documents "creak example")
+![Alt text](C:/Users/ahemmet/Documents/creak_example.png "creak example")
 
 
 ## Social and acoustic factors in the perception of creak
