@@ -264,8 +264,11 @@ main {
       margin: 0 auto;
     }
     img + span {
-      display: inline-block;
+      display: block;
+      width: auto;
+      max-width: 600px;
       margin: 0 auto;
+      padding: 5px 10px;
       text-align: center;
       background: #EFDAAB;
       font-size: 10pt;
