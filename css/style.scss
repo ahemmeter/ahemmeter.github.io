@@ -263,12 +263,13 @@ main {
       max-width: 600px;
       margin: 0 auto;
     }
-    img + span::after {
-      display: block;
-      content: attr(alt);
-     background: #EFDAAB;
-     font-size: 10pt;
-     border-radius: 4px;
+    img + span {
+      display: inline-block;
+      margin: 0 auto;
+      text-align: center;
+      background: #EFDAAB;
+      font-size: 10pt;
+      border-radius: 4px;
     }
   }
   a {
