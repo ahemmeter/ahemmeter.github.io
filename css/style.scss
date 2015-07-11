@@ -262,13 +262,6 @@ main {
       display: block;
       max-width: 600px;
       margin: 0 auto;
-      &::after {
-        display: block;
-        content: attr(alt);
-        background: #EFDAAB;
-        font-size: 10pt;
-        border-radius: 4px;
-      }
     }
   }
   a {
