@@ -261,16 +261,13 @@ main {
     img {
       display: block;
       max-width: 600px;
-      margin: 0 auto;
+      margin: 15px auto;
     }
     img + span {
       display: block;
-      width: auto;
-      max-width: 600px;
+      width: 600px;
       margin: 0 auto;
-      padding: 5px 10px;
       text-align: center;
-      background: #EFDAAB;
       font-size: 10pt;
       border-radius: 4px;
     }
