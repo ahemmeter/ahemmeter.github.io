@@ -56,7 +56,9 @@
         });
         
         /* place a span element after images, for caption */
-        $('<span></span>').insertAfter('main p img');
+        $('main p img').each(function() {
+          $('<span>' + this.attr('alt') + '</span>').insertAfter(this);
+        });
     </script>
   </body>
 </html>
