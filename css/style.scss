@@ -261,15 +261,8 @@ main {
     img {
       display: block;
       max-width: 600px;
-      margin: 15px auto;
-    }
-    img + span {
-      display: block;
-      width: 600px;
       margin: 0 auto;
-      text-align: center;
-      font-size: 10pt;
-      border-radius: 4px;
+      padding: 30px 0;
     }
   }
   a {
