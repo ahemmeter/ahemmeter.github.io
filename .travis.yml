@@ -1,8 +1,9 @@
 before_install:
 - openssl aes-256-cbc -K $encrypted_a7dc3a9bd345_key -iv $encrypted_a7dc3a9bd345_iv
-  -in deploy_key.pem.enc -out .travis/deploy_key.pem -d
+  -in .travis/deploy_key.pem.enc -out .travis/deploy_key.pem -d
 install:
 - sudo apt-get install npm
+- npm config set registry http://registry.npmjs.org/
 - sudo npm install -g markdown-pdf
 script:
 - npm --version

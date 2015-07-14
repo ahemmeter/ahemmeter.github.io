@@ -1,3 +1,4 @@
 *~
+*.swp
 *.log
 .travis/deploy_key.pem
