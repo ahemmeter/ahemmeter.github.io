@@ -13,9 +13,9 @@ after_success:
 - git config user.name "travis-autodeployer"
 - git config user.email "wjbarlow+github-buildbot@ncsu.edu"
 - git config push.default simple
+- git remote add deploy https://github.com/ahemmeter/ahemmeter.github.io.git
 - git add files/amy_hemmeter_cv.pdf
 - git status -uno
 - git commit -m "deploying updated CV (pdf version)"
 - git log --pretty=oneline
-- git remote add deploy https://github.com/ahemmeter/ahemmeter.github.io.git
-- git push deploy
+- git push deploy HEAD:master
