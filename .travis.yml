@@ -1,0 +1,17 @@
+before_install:
+- openssl aes-256-cbc -K $encrypted_a7dc3a9bd345_key -iv $encrypted_a7dc3a9bd345_iv
+  -in deploy_key.pem.enc -out .travis/deploy_key.pem -d
+install:
+- sudo npm install -g markdown-pdf
+script:
+- npm --version
+- markdown-pdf --version
+- markdown-pdf -o files/amy_hemmeter_cv.pdf -s css/cv.css -b 1in cv.md
+- git config user.email wjbarlow.github-buildbot@ncsu.edu
+- git add files/amy_hemmeter_cv.pdf
+- git commit -m "deploying updated CV"
+after_success:
+- chmod 600 .travis/deploy_key.pem
+- ssh-add .travis/deploy_key.pem
+- git remote add deploy https://github.com/ahemmeter/ahemmeter.github.io.git
+- git push deploy

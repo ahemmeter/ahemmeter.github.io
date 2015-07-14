@@ -1,0 +1,63 @@
+/* CSS file for auto-generated CV PDF
+ * =============================================================================
+ * This file is not used on the website. Instead, it is used by the software
+ * which automatically builds a PDF version of the CV from the Markdown file.
+ * This is loaded by the 'markdown-pdf' utility to convert the Markdown to HTML,
+ * apply this CSS, then render that HTML into a PDF.
+ * =============================================================================
+ */
+
+/* everything is a 10pt professional-looking serif font. */
+body {
+    font-family: 'Georgia', 'Times New Roman', serif;
+    font-size: 10pt;
+}
+
+/* jekyll's yaml frontmatter was interpretted as an hr tag followed by h2. the
+ * link is the "download as pdf" link that is visible on the web. all of these
+ * should be invisible in the PDF format. */
+h2:first-of-type, hr, a {
+    display: none;
+}
+
+/* this is the top-most header (your name and the document title). it gets 
+ * padding below, but since it's the first thing, none on top. */
+h1:first-of-type {
+    margin-top: 0;
+    padding-top: 0;
+    text-align: center;
+}
+
+/* these are the category headers: they get some padding on top only. */
+h2 {
+    margin-bottom: 0;
+    padding-bottom: 0;
+}
+
+/* both types of headers are the same size as text, but bold. */
+h1, h2 {
+    font-size: 10pt;
+    font-weight: bold;
+}
+
+/* the actual content has no spacing between elements. */
+p, ul {
+    margin-top: 0;
+    margin-bottom: 0;
+    padding-top: 0;
+    padding-bottom: 0;
+}
+
+/* this is the document title: it says "Curriculum Vitae". it is centered,
+ * non-bold, and positioned below your name. */
+h1:first-of-type {
+    font-weight: normal;
+}
+
+/* since your name isn't actually in the cv.md file, this inserts it in the
+ * pdf. it is centered and bold, and placed above the document title. */
+h1:first-of-type::before {
+    display: block;
+    content: 'Amy Hemmeter';
+    font-weight: bold;
+}
