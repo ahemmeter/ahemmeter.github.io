@@ -2,3 +2,4 @@
 *.swp
 *.log
 .travis/deploy_key.pem
+node_modules/
