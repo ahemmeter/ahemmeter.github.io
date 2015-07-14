@@ -1,0 +1,7 @@
+{
+	"name" : "ahemmeter.github.io",
+	"version" : "0.0.0",
+	"dependencies" : {
+		"markdown-pdf" : "5.3.x"
+	}
+}
