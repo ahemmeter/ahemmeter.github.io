@@ -19,6 +19,7 @@ MA, North Carolina State University. September 2014 -
 
 ## Research Experience
 
+* this is a test.
 * 2009-2010 - UROP Project with Carmel O'Shannessy, working on the morphology of Light Warlpiri. I coded data from a corpus and produced graphs and information regarding suffixation in Light Warlpiri. I presented a poster at the UROP Poster Session discussing my findings that a rarely-used "shortened" suffix from Warlpiri was on the rise in Light Warlpiri, due to a larger vowel inventory in English-lexified items.
 * 2010 - Summer work with Marlyse Baptista. I learned how to use EndNote and taught Marlyse how to use it, as well as organizing many of her bibliographies myself. I also did several searches for literature relevant to her research in creolistics and syntax.
 * 2011 – Volunteer work at Ioulia Kovelman’s Language and Literacy Lab. My work involved transcription and video linking on the Childes CLAN program. I also prepared stimuli for perception experiments.
