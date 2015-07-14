@@ -15,6 +15,7 @@ after_success:
 - git config user.name "travis-autodeployer"
 - git config user.email "wjbarlow+github-buildbot@ncsu.edu"
 - git config push.default simple
+- git diff --name-only `git log -1 --author=travis-autodeployer --pretty=%h` HEAD
 - if [ -z "$(git diff --name-only `git log -1 --author=travis-autodeployer --pretty=%h` HEAD | grep 'cv.md')" ]; then echo "CV not updated."; else git add files/amy_hemmeter_cv.pdf; fi
 - git status -uno
 - git commit -m "deploying updated CV (pdf version)"
