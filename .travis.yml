@@ -6,9 +6,10 @@ before_install:
   -in .travis/deploy_key.pem.enc -out .travis/deploy_key.pem -d
 script:
 - markdown-pdf -o files/amy_hemmeter_cv.pdf -s css/cv.css -b 1in cv.md
-- git config user.email wjbarlow.github-buildbot@ncsu.edu
+- git config user.name "travis-autodeployer"
+- git config user.email "wjbarlow.github-buildbot@ncsu.edu"
 - git add files/amy_hemmeter_cv.pdf
-- git commit -m "deploying updated CV"
+- git commit -m "deploying updated CV (pdf version)"
 after_success:
 - chmod 600 .travis/deploy_key.pem
 - ssh-add .travis/deploy_key.pem
