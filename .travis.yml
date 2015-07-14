@@ -11,6 +11,7 @@ script:
 - git add files/amy_hemmeter_cv.pdf
 - git commit -m "deploying updated CV (pdf version)"
 after_success:
+- eval `ssh-agent`
 - chmod 600 .travis/deploy_key.pem
 - ssh-add .travis/deploy_key.pem
 - git remote add deploy https://github.com/ahemmeter/ahemmeter.github.io.git
