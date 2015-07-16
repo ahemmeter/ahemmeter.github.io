@@ -1,4 +1,5 @@
 source: content
+destination: /
 gems:
 - jekyll-mentions
 - jemoji
