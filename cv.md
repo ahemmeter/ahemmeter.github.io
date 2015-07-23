@@ -6,7 +6,7 @@ layout: default
 
 [Download as PDF](files/amy_hemmeter_cv.pdf)
 
-## Education
+## Education:
 
 BA, University of Michigan. September 2009 - May 2013
 
