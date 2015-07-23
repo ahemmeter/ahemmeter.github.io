@@ -10,8 +10,8 @@ layout: default
 
 BA, University of Michigan. September 2009 - May 2013
 
-* Major: Linguistics
-* Minor: Near Eastern Studies (Arabic)
+* **Major**: Linguistics
+* **Minor**: Near Eastern Studies (Arabic)
 
 MA, North Carolina State University. September 2014 - 
 
