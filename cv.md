@@ -19,21 +19,25 @@ MA, North Carolina State University. September 2014 -
 
 ## Research Experience
 
-* 2009-2010 - UROP Project with Carmel O'Shannessy, working on the morphology of Light Warlpiri. I coded data from a corpus and produced graphs and information regarding suffixation in Light Warlpiri. I presented a poster at the UROP Poster Session discussing my findings that a rarely-used "shortened" suffix from Warlpiri was on the rise in Light Warlpiri, due to a larger vowel inventory in English-lexified items.
-* 2010 - Summer work with Marlyse Baptista. I learned how to use EndNote and taught Marlyse how to use it, as well as organizing many of her bibliographies myself. I also did several searches for literature relevant to her research in creolistics and syntax.
-* 2011 – Volunteer work at Ioulia Kovelman’s Language and Literacy Lab. My work involved transcription and video linking on the Childes CLAN program. I also prepared stimuli for perception experiments.
-* 2011 – Summer research work with Robin Queen. I coded comments from the Postsecret Community forums with the discourse analysis program TAMS Analyzer.
-* 2012 – Work with Jon Yip. I saved production stimulus sentences from an Excel document into Photoshop images.
-* 2012 – Research with Robin Queen, transcribing video clips for her book on Language and the Media.
-* 2013 – Worked as an intern at the Accent Reduction Institute. Helped to create curriculum for foreign nationals learning American English pronunciation.
+* 2014 – Worked in the Phonology Lab under the direction of Dr. Jeff Mielke. Processed files to obtain ultrasound data, created and aligned transcripts to audio files
 * 2013 – Worked with Harim Kwon, measuring Voice Onset Time in both English and Korean utterances from native Korean speakers.
-* 2014 – Became an RA in the Phonology Lab under the direction of Dr. Jeff Mielke. Processed files to obtain ultrasound data, created and aligned transcripts to audio files
+* 2013 – Worked as an intern at the Accent Reduction Institute. Helped to create curriculum for foreign nationals learning American English pronunciation.
+* 2012 – Research with Robin Queen, transcribing video clips for her book on Language and the Media.
+* 2012 – Work with Jon Yip. I saved production stimulus sentences from an Excel document into Photoshop images.
+* 2011 – Summer research work with Robin Queen. I coded comments from the Postsecret Community forums with the discourse analysis program TAMS Analyzer.
+* 2011 – Volunteer work at Ioulia Kovelman’s Language and Literacy Lab. My work involved transcription and video linking on the Childes CLAN program. I also prepared stimuli for perception experiments.
+* 2010 - Summer work with Marlyse Baptista. I learned how to use EndNote and taught Marlyse how to use it, as well as organizing many of her bibliographies myself. I also did several searches for literature relevant to her research in creolistics and syntax.
+* 2009-2010 - UROP Project with Carmel O'Shannessy, working on the morphology of Light Warlpiri. I coded data from a corpus and produced graphs and information regarding suffixation in Light Warlpiri. I presented a poster at the UROP Poster Session discussing my findings that a rarely-used "shortened" suffix from Warlpiri was on the rise in Light Warlpiri, due to a larger vowel inventory in English-lexified items.
+
 
 ## Conference presentations
 
 * NWAV 2013, Poster, Gender and formality effects on the production of vocal fry
 * SECOL 2015, Paper Presentation, Creating gender-ambiguous stimuli
 * Upcoming: NWAV 2015, Paper Presentation, Social and acoustic factors in the perception of creak
+
+## Workshops
+*September 2015 Workshop on basic Praat scripting
 
 
 ## Participation in the Academic Community
