@@ -37,7 +37,7 @@ MA, North Carolina State University. September 2014 -
 * Upcoming: NWAV 2015, Paper Presentation, Social and acoustic factors in the perception of creak
 
 ## Workshops
-* September 2015 Workshop on basic Praat scripting
+* <a href="http://phon.wordpress.ncsu.edu/workshops/">September 2015 Workshop</a> on basic Praat scripting
 
 
 ## Participation in the Academic Community
