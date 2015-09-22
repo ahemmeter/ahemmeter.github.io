@@ -53,8 +53,11 @@ a {
     text-decoration: inherit;
 }
 
-a::after {
-    content: none;
+a[href]::after {
+    content: '[' counter(footnote) ']';
+    counter-increment: footer;
+    font-size: 50%;
+    vertical-align: super;
 }
 
 /* this is the document title: it says "Curriculum Vitae". it is centered,
