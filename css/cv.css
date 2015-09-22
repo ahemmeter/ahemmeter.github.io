@@ -75,8 +75,11 @@ h1:first-of-type::before {
 }
 
 /* this section is used for URL footnotes where your CV contains links */
-footer ol {
+footer {
     font-size: 75%;
+    margin-top: 3em;
+}
+footer ol {
     counter-reset: footnote;
     list-style: none;
     padding-left: 3em;
