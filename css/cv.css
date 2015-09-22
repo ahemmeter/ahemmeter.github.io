@@ -54,9 +54,9 @@ a {
 }
 
 a[href]::after {
-    content: '[' counter(footnote) ']';
     counter-increment: footnote;
-    font-size: 50%;
+    content: '[' counter(footnote) ']';
+    font-size: 75%;
     vertical-align: super;
 }
 
