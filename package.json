@@ -3,6 +3,6 @@
 	"version" : "0.0.0",
 	"repository" : "https://github.com/ahemmeter/ahemmeter.github.io",
 	"dependencies" : {
-		"markdown-pdf" : "5.3.x"
+		"markdown-pdf" : "git://github.com/woodrowbarlow/markdown-pdf.git"
 	}
 }
