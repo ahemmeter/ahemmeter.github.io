@@ -16,7 +16,7 @@ body {
 /* jekyll's yaml frontmatter was interpretted as an hr tag followed by h2. the
  * link is the "download as pdf" link that is visible on the web. all of these
  * should be invisible in the PDF format. */
-h2:first-of-type, hr, a {
+h2:first-of-type, hr, a[href="files/amy_hemmeter_cv.pdf"] {
     display: none;
 }
 
@@ -46,6 +46,15 @@ p, ul {
     margin-bottom: 0;
     padding-top: 0;
     padding-bottom: 0;
+}
+
+a {
+    color: inherit;
+    text-decoration: inherit;
+}
+
+a::after {
+    content: none;
 }
 
 /* this is the document title: it says "Curriculum Vitae". it is centered,
