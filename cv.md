@@ -4,7 +4,7 @@ layout: default
 
 # Curriculum Vitae
 
-[Download as PDF](files/amy_hemmeter_cv.pdf)
+[View as PDF](files/amy_hemmeter_cv.pdf)
 
 ## Education
 
