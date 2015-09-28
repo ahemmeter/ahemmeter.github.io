@@ -84,6 +84,9 @@ CSS file: `css/cv.css`. Edit it as if it were a normal CSS file for a normal
 webpage: you can change the font or anything else. I've tried to include
 comments in the file for anything that isn't intuitive.
 
+If you want the *content* of the PDF to differ from the web version (rather than
+just the style), then that's a bit trickier but something I could take care of.
+
 ### Editing the Template Content (Navigation, Footer, etc.)
 
 The "template" for the website (including the header image, the navigation, and
