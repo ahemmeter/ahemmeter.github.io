@@ -62,6 +62,28 @@ If you need to upload new files (like pictures that you want to embed in one of
 your webpages), you can't do that with the web interface. :disappointed: You'll
 need to download the repository and use Git to make and upload changes.
 
+### Editing your CV
+
+Since the CV is so important, and academics often prefer to have black-on-white
+plain-text serif-font pdf versions of CVs, I've cooked up some special sauce for
+your "Curriculum Vitae" page (the `cv.md` file). When you edit that markdown
+page, the web version gets updated as normal, but it also kicks off a custom
+script on a [Travis-CI](http://travis-ci.org) server instance. That script
+generates a pdf version of your CV and uploads it to the site automatically.
+This process can take anywhere between 2 and 15 minutes; so, when you update
+your CV, it's always a good idea to check back to be sure the PDF version
+updated also.
+
+The PDF styling is super-basic (in keeping with the typical look of a CV). No
+colors, a basic font, sparse use of bold text for headers only, bullet points,
+etc. It does do one fancy thing: if you have any links in the `cv.md` file, they
+are converted to URL footnotes in the PDF version.
+
+If you want to change the styling of the CV pdf, you can do that via a special
+CSS file: `css/cv.css`. Edit it as if it were a normal CSS file for a normal
+webpage: you can change the font or anything else. I've tried to include
+comments in the file for anything that isn't intuitive.
+
 ### Editing the Template Content (Navigation, Footer, etc.)
 
 The "template" for the website (including the header image, the navigation, and
