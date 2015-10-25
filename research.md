@@ -7,7 +7,7 @@ layout: default
 ![A waveform example of Vocal Creak.](/files/creak_example.png)
 
 
-## Social and acoustic factors in the perception of creak
+## [Social and acoustic factors in the perception of creak](/files/NWAV2015.pdf){:target="_blank"}
 
 Several production studies have recently linked women in the United States to the usage of “creak,” or “vocal fry” (Yuasa, 2010; Podesva 2011; Wolk et al 2011; Anderson and Nguyen 2004; Mendoza-Denton 2011). Perception studies about creak have been rarer and have generally focused on the personality traits associated with creak (Yuasa 2010, Anderson et al. 2014). Although these studies have found that listeners associate creak with women and femininity, few aim to tease apart the salience of creak in women’s speech as a result of acoustic realities versus social associations. This study aims to determine whether listeners a) detect creak more easily in women’s voices and b) if so, whether this salience is due in part to the greater expectation of creak due to the perceived association of creak with women, as opposed to the ease of detecting creak in voices with higher fundamental frequency. 
 
