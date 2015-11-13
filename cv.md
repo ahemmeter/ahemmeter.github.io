@@ -100,4 +100,4 @@ Laboratory skills
 
 ## Blog
 
-Beyond the Fourth Floor, [http://beyondthefourthfloorblog.com/](http://beyondthefourthfloorblog.com/) 
+[Beyond the Fourth Floor](http://beyondthefourthfloorblog.com/) 
