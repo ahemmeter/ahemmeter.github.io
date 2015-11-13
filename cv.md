@@ -17,7 +17,7 @@ MA, North Carolina State University. September 2014 -
 
 * English, Concentration in Linguistics
 
-##Research Interests
+## Research Interests
 * Phonetics
 * Sociophonetics
 * Acoustic and perceptual phonetics
