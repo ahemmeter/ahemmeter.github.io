@@ -24,7 +24,13 @@ MA, North Carolina State University. September 2014 -
 * Articulation
 * Language, gender and sexuality
 
-## Research Experience
+## Conference presentations
+
+* NWAV44 2015 in Toronto, Paper Presentation, Social and acoustic factors in the perception of creak
+* SECOL82 2015 in Raleigh, Paper Presentation, Creating gender-ambiguous stimuli
+* NWAV42 2013 in Pittsburgh, Poster, Gender and formality effects on the production of vocal fry
+
+## Research Positions
 
 * 2014 – RA in the Phonology Lab under the direction of Dr. Jeff Mielke.
 * 2013 –  RA for Harim Kwon on a project on Voice Onset Time in Korean
@@ -35,14 +41,6 @@ MA, North Carolina State University. September 2014 -
 * 2011 – RA for Dr. Ioulia Kovelman’s Language and Literacy Lab
 * 2010 - Research support for Dr. Marlyse Baptista, or her research on creolistics and syntax.
 * 2009-2010 - Undergraduate Research Opportunity project with Dr. Carmel O’Shannessy, working on the morphology of Light Warlpiri
-
-
-
-## Conference presentations
-
-* NWAV44 2015 in Toronto, Paper Presentation, Social and acoustic factors in the perception of creak
-* SECOL82 2015 in Raleigh, Paper Presentation, Creating gender-ambiguous stimuli
-* NWAV42 2013 in Pittsburgh, Poster, Gender and formality effects on the production of vocal fry
 
 ## Workshops
 * September 2015 -- Created and led a [workshop on basic Praat scripting](http://phon.wordpress.ncsu.edu/workshops/) with [Eric Wilbanks](http://ericwilbanks.github.io/)
