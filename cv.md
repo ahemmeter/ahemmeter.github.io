@@ -76,11 +76,13 @@ MA, North Carolina State University. September 2014 -
 ## Skills
 
 Languages
+
 * English
 * French
 * Arabic
 
 Software
+
 * Praat scripting
 * Java
 * Python
@@ -90,6 +92,7 @@ Software
 * Psychopy
 
 Laboratory skills
+
 * Acoustic analysis
 * Forced alignment
 * Perception experiment design
