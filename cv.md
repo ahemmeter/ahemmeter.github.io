@@ -17,53 +17,84 @@ MA, North Carolina State University. September 2014 -
 
 * English, Concentration in Linguistics
 
+##Research Interests
+* Phonetics
+* Sociophonetics
+* Acoustic and perceptual phonetics
+* Articulation
+* Language, gender and sexuality
+
 ## Research Experience
 
-* 2014 – Worked in the Phonology Lab under the direction of Dr. Jeff Mielke. Processed files to obtain ultrasound data, created and aligned transcripts to audio files
-* 2013 – Worked with Harim Kwon, measuring Voice Onset Time in both English and Korean utterances from native Korean speakers.
-* 2013 – Worked as an intern at the Accent Reduction Institute. Helped to create curriculum for foreign nationals learning American English pronunciation.
-* 2012 – Research with Robin Queen, transcribing video clips for her book on Language and the Media.
-* 2012 – Work with Jon Yip. I saved production stimulus sentences from an Excel document into Photoshop images.
-* 2011 – Summer research work with Robin Queen. I coded comments from the Postsecret Community forums with the discourse analysis program TAMS Analyzer.
-* 2011 – Volunteer work at Ioulia Kovelman’s Language and Literacy Lab. My work involved transcription and video linking on the Childes CLAN program. I also prepared stimuli for perception experiments.
-* 2010 - Summer work with Marlyse Baptista. I learned how to use EndNote and taught Marlyse how to use it, as well as organizing many of her bibliographies myself. I also did several searches for literature relevant to her research in creolistics and syntax.
-* 2009-2010 - UROP Project with Carmel O'Shannessy, working on the morphology of Light Warlpiri. I coded data from a corpus and produced graphs and information regarding suffixation in Light Warlpiri. I presented a poster at the UROP Poster Session discussing my findings that a rarely-used "shortened" suffix from Warlpiri was on the rise in Light Warlpiri, due to a larger vowel inventory in English-lexified items.
+2014 – RA in the Phonology Lab under the direction of Dr. Jeff Mielke.
+2013 –  RA for Harim Kwon on a project on Voice Onset Time in Korean
+2013 – Research intern for the Accent Reduction Institute
+2012 – RA for Dr. Robin Queen on her book on language and the media, Vox Popular
+2012 – RA for  Jon Yip, on an ultrasound project with consonant clusters in Modern Greek
+2011 – RA for Dr. Robin Queen, on a project on discourse analysis of Postsecret Forums
+2011 – RA for Dr. Ioulia Kovelman’s Language and Literacy Lab
+2010 - Research support for Dr. Marlyse Baptista, or her research on creolistics and syntax.
+2009-2010 - Undergraduate Research Opportunity project with Dr. Carmel O’Shannessy, working on the morphology of Light Warlpiri
+
 
 
 ## Conference presentations
 
-* NWAV 2013, Poster, Gender and formality effects on the production of vocal fry
-* SECOL 2015, Paper Presentation, Creating gender-ambiguous stimuli
-* Upcoming: NWAV 2015, Paper Presentation, Social and acoustic factors in the perception of creak
+* NWAV44 2015 in Toronto, Paper Presentation, Social and acoustic factors in the perception of creak
+* SECOL82 2015 in Raleigh, Paper Presentation, Creating gender-ambiguous stimuli
+* NWAV42 2013 in Pittsburgh, Poster, Gender and formality effects on the production of vocal fry
 
 ## Workshops
-* [September 2015 Workshop](http://phon.wordpress.ncsu.edu/workshops/) on basic Praat scripting
+* September 2015 -- Created and led a [wrkshop on basic Praat scripting](http://phon.wordpress.ncsu.edu/workshops/) with [Eric Wilbanks](http://ericwilbanks.github.io/)
 
 
-## Participation in the Academic Community
+## Service and Engagement
 
-* President of University of Michigan Undergraduate Linguistics Club 2011-2013
-  * University of Michigan Linguistics Undergraduate Committee 2010-2013
-* Helped create a volunteer tutoring program through the Undergraduate Linguistics Club
-* Events organized by me for undergraduates (and high schoolers): undergraduate-oriented talks by faculty members and graduate students at Linguistics Club meetings, colloquium breakfasts with visiting colloquium speakers, practice sessions with local high schoolers for the North American Computational Linguistics Olympiad (NACLO)
-* Worked with the NACLO for 2 years, as a problem tester and data-entry person
+* Diversity Ambassador for the North Carolina Language and Life Program at North Carolina State University
 * Worked as an organizer for the 2013 Linguistic Summer Institute in Ann Arbor
+* President of University of Michigan Undergraduate Linguistics Club 2011-2013
+* University of Michigan Linguistics Undergraduate Committee 2010-2013
+* Helped create a volunteer tutoring program through the Undergraduate Linguistics Club
+* Events organized for undergraduates (and high schoolers): 
+ * Undergraduate-oriented talks by faculty members and graduate students at Linguistics Club meetings
+ * Colloquium breakfasts with visiting colloquium speakers
+ * Practice sessions with local high schoolers for the North American Computational Linguistics Olympiad (NACLO)
+* Worked with the North American Computational Linguistics Olympiad 2010-2012
 
-## Tutoring Experience
 
+## Teaching and Tutoring Experience
+
+* Teaching assistant at North Carolina State University:
+ * ENG210 -- Intro to Linguistics with Dr. Agnes Bolonyai
+ * ENG324 -- English Syntax with Dr. Robin Dodsworth
+ * ENG525 -- Language and Variation with Dr. Walt Wolfram
+* Writing consultant in the Graduate Writing Center at North Carolina State University Spring 2014
 * Tutored through the volunteer Linguistics Club tutoring program 2010-2013
 * Tutored student-athletes through the Academic Success Program in the Athletics Department 2010-2013
-* Tutored as a writing consultant in the Graduate Writing Center at North Carolina State University
-* Worked as a TA for the following undergraduate courses at North Carolina State University: Intro to Linguistics and English Syntax
+
 
 ## Skills
 
+Languages
+* English
+* French
+* Arabic
+
+Software
 * Praat scripting
 * Java
 * Python
 * Unix Command Line
-* P2FA Forced Aligner
+* LaTex
+* R
+* Psychopy
 
-## Honors Thesis
+Laboratory skills
+* Acoustic analysis
+* Forced alignment
+* Perception experiment design
+* Ultrasound
 
-*Gender and formality effects on the production and perception of vocal fry*. BA Thesis, University of Michigan. 2013.
+## Blog
+
+Beyond the Fourth Floor, [http://beyondthefourthfloorblog.com/](http://beyondthefourthfloorblog.com/) 
