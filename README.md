@@ -62,6 +62,9 @@ If you need to upload new files (like pictures that you want to embed in one of
 your webpages), you can't do that with the web interface. :disappointed: You'll
 need to download the repository and use Git to make and upload changes.
 
+**EDIT**: Github added support for uploading files using the web interface! Just
+drag and drop.
+
 ### Editing your CV
 
 Since the CV is so important, and academics often prefer to have black-on-white
